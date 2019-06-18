@@ -16,7 +16,7 @@ Once all prerequisites are satisfied you must checkout this repository and open 
 
 ```
 git checkout https://github.com/ZacharyJoswick/vscode-remote-telepresence.git
-code vscode_containers_telepresence
+code vscode-remote-telepresence
 ```
 
 Once opened, a prompt should appear in the bottom right to open the folder in a remote container. If it does not you can trigger this manually by doing the following:
